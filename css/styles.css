@@ -2,3 +2,13 @@ h1 {
   text-align: center;
   color: violet;
 }
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.best {
+  font-family: cursive;
+  font-style: bold;
+  font-size: 50px;
+}
