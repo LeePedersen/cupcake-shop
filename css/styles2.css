@@ -1,0 +1,23 @@
+/* h2.Intro {
+  font-style: oblique;
+  font-family: sans-serif;
+}
+p.Intro {
+  font-weight: 300;
+  color: magenta;
+}
+img.Intro {
+  width: 2226px;
+} */
+
+.Intro {
+  font-size: 100px;
+}
+
+.important {
+  font-size: 50px;
+}
+
+.bold {
+  font-weight: bold;
+}
